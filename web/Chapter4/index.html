@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Chapter4/style.css">
+    <title>Survey</title>
+</head>
+<body>
+    <div class="wrapper">
+        <form action="Survey" method="post">
+            <img src="Chapter4/Sprite/Murach_image-300x300.jpg" alt="Murach" width="100">
+            <h1>Survey</h1>
+            <p>If you have a moment, we'd appreciate it if you would fill out
+				this survey.</p>
+            <h2>Your information:</h2>
+            <label>First Name</label>
+            <br>
+            <input type="text" name="first name" required>
+            <br>
+            <label>Last Name</label>
+            <br>
+            <input type="text" name="last name" required>
+            <br>
+            <label>Email</label>
+            <br>
+            <input type="text" name="email" required>
+            <h2>How did you hear about us?</h2>
+            <p>
+                <input type="radio" name="heardFrom" value="Search Engine" checked>
+                Search Engine
+                <input type="radio" name="heardFrom" value="Friend" checked>
+                Word of mouth 
+                <input type="radio" name="heardFrom" value="Social Media" checked>
+                Social Media
+                <input type="radio" name="heardFrom" value="Other" checked>
+                Other
+
+            </p>
+            <h2>Would you like to receive announcements about new CDs and
+				special offers?</h2>
+            <p>
+                <input type="checkbox" name="wantsUpdates" >
+                Yes, I'd like that.
+            </p>
+            <p>
+                <input type="checkbox" name="emailOk">
+                YES, please send meemail announcements.
+            </p>
+            <p>
+				Please contact me by: 
+                <select name="contactVia">
+                    <option value="Both" selected>Email or postal mail</option>
+                    <option value="Email">Email only</option>
+                    <option value="Portal mail">Portal email only</option>
+                </select>
+            </p>
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+    <a href="Category?cate=returnDashboard">Return to exercises list</a>
+</body>
+</html>

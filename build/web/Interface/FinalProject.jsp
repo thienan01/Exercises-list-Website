@@ -30,8 +30,9 @@
 <body class="">
   <div class="wrapper ">
     <div class="sidebar" data-color="purple" data-background-color="white" data-image="img/sidebar-1.jpg">
-      <div class="logo"><a href="http://www.creative-tim.com" class="simple-text logo-normal" id="logoo">
-        <img src="Interface/img/faces/logo.jpg" id="logoWeb">
+      <div class="logo"><a href="#" class="simple-text logo-normal" id="logoo">
+        <img src="Interface/img/faces/logo2.jpg" id="logoWeb">
+        GROUP 7
         </a></div>
       <div class="sidebar-wrapper">
         <ul class="nav">

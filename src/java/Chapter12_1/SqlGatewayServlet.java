@@ -17,12 +17,13 @@ public class SqlGatewayServlet extends HttpServlet {
 
     @Override
     protected void doPost(HttpServletRequest request,
-                          HttpServletResponse response)
+            HttpServletResponse response)
             throws ServletException, IOException {
 
         String sqlStatement = request.getParameter("sqlStatement");
-        String sqlResult = "";
-        Connection connection = ConnectionPool.getInstance().getConnection();
+        String sqlResult = " ";
+        ConnectionPool pool = ConnectionPool.getInstance();
+        Connection connection = pool.getConnection();
 
         if (connection == null) {
             sqlResult = "<p>Error loading the databse driver</p>";
@@ -43,12 +44,12 @@ public class SqlGatewayServlet extends HttpServlet {
                     } else {
                         int i = statement.executeUpdate(sqlStatement);
                         if (i == 0) { // a DDL statement
-                            sqlResult =
-                                    "<p>The statement executed successfully.</p>";
+                            sqlResult
+                                    = "<p>The statement executed successfully.</p>";
                         } else { // an INSERT, UPDATE, or DELETE statement
-                            sqlResult =
-                                    "<p>The statement executed successfully.<br>"
-                                            + i + " row(s) affected.</p>";
+                            sqlResult
+                                    = "<p>The statement executed successfully.<br>"
+                                    + i + " row(s) affected.</p>";
                         }
                     }
                 }

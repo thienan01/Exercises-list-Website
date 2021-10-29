@@ -35,7 +35,10 @@
     </c:forEach>
 </table>
 <br>
-<a href="Category?cate=returnDashboard">Return to list of exercises</a>
+<form action="Category" method="get">
+            <input type="hidden" name="cate" value="returnDashboard">
+            <input type="submit" value="Return to dashboard">
+</form>
 </body>
 
 </html>

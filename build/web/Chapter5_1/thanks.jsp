@@ -11,7 +11,7 @@
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Thanks</title>
-        <link rel="stylesheet" href="Chapter5/style.css">
+        <link rel="stylesheet" href="Chapter5_1/style.css">
     </head>
     <body>
         <h1>Thank for joining our email list</h1>

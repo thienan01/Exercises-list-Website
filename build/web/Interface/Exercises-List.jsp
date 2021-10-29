@@ -32,7 +32,7 @@
     <div class="sidebar" data-color="purple" data-background-color="white" data-image="img/sidebar-1.jpg">
       <div class="logo">
         
-        <a href="http://www.creative-tim.com" class="simple-text logo-normal" id="logoo">
+        <a href="#" class="simple-text logo-normal" id="logoo">
           <img src="Interface/img/faces/logo2.jpg" id="logoWeb"> Group 7
         </a></div>
       <div class="sidebar-wrapper">
@@ -170,6 +170,12 @@
                         </tr> 
                         <tr>
                             <td>11</td><td>Exercise 9.2</td><td><a href="https://github.com/thienan01/ExercisesWebsite.git" id="code" target="blank">Go to Git</a></td><td><a href="Control?name=Exercise9-02" id="Click-here">Click here</a></td><td class="text-primary">Use JSTL in the Cart application</td>
+                        </tr>
+                        <tr>
+                            <td>12</td><td>Exercise 12.1</td><td><a href="https://github.com/thienan01/ExercisesWebsite.git" id="code" target="blank">Go to Git</a></td><td><a href="Control?name=Exercise12-1" id="Click-here">Click here</a></td><td class="text-primary">Implement connection pooling</td>
+                        </tr>
+                        <tr>
+                            <td>13</td><td>Exercise 12.2</td><td><a href="https://github.com/thienan01/ExercisesWebsite.git" id="code" target="blank">Go to Git</a></td><td><a href="Control?name=Exercise12-2" id="Click-here">Click here</a></td><td class="text-primary">Create a User Admin application</td>
                         </tr>
                       </tbody>
                     </table>

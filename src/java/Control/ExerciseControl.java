@@ -55,6 +55,12 @@ public class ExerciseControl extends HttpServlet {
         if(exercise.equals("Exercise9-02")){
             request.getRequestDispatcher("productsLoad").forward(request, response);
         }
+        if(exercise.equals("Exercise12-1")){
+            request.getRequestDispatcher("/Chapter12_1/index.jsp").forward(request, response);
+        }
+        if(exercise.equals("Exercise12-2")){
+            request.getRequestDispatcher("userAdmin").forward(request, response);
+        }
     }
 
 }

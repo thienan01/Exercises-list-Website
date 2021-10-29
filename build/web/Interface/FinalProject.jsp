@@ -141,13 +141,13 @@
                       </thead>
                       <tbody>
                         <tr>
-                          <td>1</td><td>Home interface</td><td><a href="https://github.com/thienninho/exerciseweb.git" id="code" target="blank">Go to Git</a></td><td><a href="./Final-Project-Interface/index.html" id="Click-here">Click here</a></td><td class="text-primary">Completed</td>
+                          <td>1</td><td>Home interface</td><td><a href="https://github.com/thienan01/Final-project-interface.git" id="code" target="blank">Go to Git</a></td><td><a href="./Final-Project-Interface/index.html" id="Click-here">Click here</a></td><td class="text-primary">Completed</td>
                         </tr>  
                         <tr>
-                          <td>2</td><td>Cart interface</td><td><a href="https://github.com/thienninho/exerciseweb.git" id="code" target="blank">Go to Git</a></td><td><a href="./Final-Project-Interface/cart.html" id="Click-here">Click here</a></td><td class="text-primary">Completed</td>
+                          <td>2</td><td>Cart interface</td><td><a href="https://github.com/thienan01/Final-project-interface.git" id="code" target="blank">Go to Git</a></td><td><a href="./Final-Project-Interface/cart.html" id="Click-here">Click here</a></td><td class="text-primary">Completed</td>
                         </tr>
                         <tr>
-                          <td>3</td><td>Product interface</td><td><a href="https://github.com/thienninho/exerciseweb.git" id="code" target="blank">Go to Git</a></td><td><a href="./Final-Project-Interface/product.html" id="Click-here">Click here</a></td><td class="text-primary">Completed</td>
+                          <td>3</td><td>Product interface</td><td><a href="https://github.com/thienan01/Final-project-interface.git" id="code" target="blank">Go to Git</a></td><td><a href="./Final-Project-Interface/product.html" id="Click-here">Click here</a></td><td class="text-primary">Completed</td>
                         </tr>
                         
                       </tbody>

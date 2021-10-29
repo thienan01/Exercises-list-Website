@@ -3,9 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/exercise/exerciseweb/Exercise-Dashboard-master/web/Chapter4/index.html</file>
-            <file>file:/D:/exercise/exerciseweb/Exercise-Dashboard-master/src/java/Chapter6_2/survey/surveyServlet.java</file>
-            <file>file:/D:/exercise/exerciseweb/Exercise-Dashboard-master/web/Chapter6-2/index.html</file>
+            <file>file:/D:/exercise/exerciseweb/Exercise-Dashboard-master/web/WEB-INF/DB-INF.txt</file>
+            <file>file:/D:/exercise/exerciseweb/Exercise-Dashboard-master/src/java/Chapter12_1/SQLUtil.java</file>
+            <file>file:/D:/exercise/exerciseweb/Exercise-Dashboard-master/src/java/Chapter12_1/ConnectionPool.java</file>
+            <file>file:/D:/exercise/exerciseweb/Exercise-Dashboard-master/web/Chapter12_1/index.jsp</file>
+            <file>file:/D:/exercise/exerciseweb/Exercise-Dashboard-master/src/java/Chapter12_1/SqlGatewayServlet.java</file>
         </group>
     </open-files>
 </project-private>

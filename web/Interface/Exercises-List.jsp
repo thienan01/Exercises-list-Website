@@ -138,38 +138,38 @@
                   <div class="table-responsive">
                     <table class="table">
                       <thead class=" text-primary">
-                        <th>ID</th><th>Exercise name</th><th>Code</th><th>Go live</th><th>Status</th>
+                        <th>ID</th><th>Exercise name</th><th>Code</th><th>Go live</th><th>Description</th>
                       </thead>
                       <tbody>
                         <tr>
-                          <td>1</td><td>Exercise 4</td><td><a href="https://github.com/thienninho/exerciseweb.git" id="code" target="blank">Go to Git</a></td><td><a href="Control?name=Exercise4" id="Click-here">Click here</a></td><td class="text-primary">Completed</td>
+                          <td>1</td><td>Exercise 4</td><td><a href="https://github.com/thienan01/ExercisesWebsite.git" id="code" target="blank">Go to Git</a></td><td><a href="Control?name=Exercise4" id="Click-here">Click here</a></td><td class="text-primary">Modify a web page</td>
                         </tr>  
                         <tr>
-                          <td>2</td><td>Exercise 5.1</td><td><a href="https://github.com/thienninho/exerciseweb.git" id="code" target="blank">Go to Git</a></td><td><a href="Control?name=Exercise5" id="Click-here">Click here</a></td><td class="text-primary">Completed</td>
+                          <td>2</td><td>Exercise 5.1</td><td><a href="https://github.com/thienan01/ExercisesWebsite.git" id="code" target="blank">Go to Git</a></td><td><a href="Control?name=Exercise5" id="Click-here">Click here</a></td><td class="text-primary">Modify the servlet for the Email List application</td>
                         </tr> 
                         <tr>
-                            <td>4</td><td>Exercise 5.2</td><td><a href="https://github.com/thienninho/exerciseweb.git" id="code" target="blank">Go to Git</a></td><td><a href="Control?name=Exercise5_2" id="Click-here">Click here</a></td><td class="text-primary">Completed</td>
+                            <td>4</td><td>Exercise 5.2</td><td><a href="https://github.com/thienan01/ExercisesWebsite.git" id="code" target="blank">Go to Git</a></td><td><a href="Control?name=Exercise5_2" id="Click-here">Click here</a></td><td class="text-primary">Create a new servlet </td>
                         </tr>
                         <tr>
-                          <td>5</td><td>Exercise 6.1</td><td><a href="https://github.com/thienninho/exerciseweb.git" id="code" target="blank">Go to Git</a></td><td><a href="Control?name=Exercise6" id="Click-here">Click here</a></td><td class="text-primary">Completed</td>
+                          <td>5</td><td>Exercise 6.1</td><td><a href="https://github.com/thienan01/ExercisesWebsite.git" id="code" target="blank">Go to Git</a></td><td><a href="Control?name=Exercise6" id="Click-here">Click here</a></td><td class="text-primary">MOdify the JSPs for the Email List application</td>
                         </tr> 
                         <tr>
-                            <td>6</td><td>Exercise 6.2</td><td><a href="https://github.com/thienninho/exerciseweb.git" id="code" target="blank">Go to Git</a></td><td><a href="Control?name=Exercise6-2" id="Click-here" >Click here</a></td><td class="text-primary">Completed</td>
+                            <td>6</td><td>Exercise 6.2</td><td><a href="https://github.com/thienan01/ExercisesWebsite.git" id="code" target="blank">Go to Git</a></td><td><a href="Control?name=Exercise6-2" id="Click-here" >Click here</a></td><td class="text-primary">Create a new JSP</td>
                         </tr>
                         <tr>
-                          <td>7</td><td>Exercise 7 (01+02)</td><td><a href="https://github.com/thienninho/exerciseweb.git" id="code" target="blank">Go to Git</a></td><td><a href="Control?name=Exercise7-0102" id="Click-here">Click here</a></td><td class="text-primary">Completed</td>
+                          <td>7</td><td>Exercise 7 (01+02)</td><td><a href="https://github.com/thienan01/ExercisesWebsite.git" id="code" target="blank">Go to Git</a></td><td><a href="Control?name=Exercise7-0102" id="Click-here">Click here</a></td><td class="text-primary">Use a new cookie & Use a session attribute</td>
                         </tr> 
                         <tr>
-                          <td>8</td><td>Exercise 7 (03)</td><td><a href="https://github.com/thienninho/exerciseweb.git" id="code" target="blank">Go to Git</a></td><td><a href="Control?name=Exercise7-03" id="Click-here" >Click here</a></td><td class="text-primary">Completed</td>
+                          <td>8</td><td>Exercise 7 (03)</td><td><a href="https://github.com/thienan01/ExercisesWebsite.git" id="code" target="blank">Go to Git</a></td><td><a href="Control?name=Exercise7-03" id="Click-here" >Click here</a></td><td class="text-primary">Use URL rewriting instead of hidden fields</td>
                         </tr> 
                         <tr>
-                          <td>9</td><td>Exercise 8</td><td><a href="https://github.com/thienninho/exerciseweb.git" id="code" target="blank">Go to Git</a></td><td><a href="Control?name=Exercise8" id="Click-here">Click here</a></td><td class="text-primary">Completed</td>
+                          <td>9</td><td>Exercise 8</td><td><a href="https://github.com/thienan01/ExercisesWebsite.git" id="code" target="blank">Go to Git</a></td><td><a href="Control?name=Exercise8" id="Click-here">Click here</a></td><td class="text-primary">Modify the Email List application</td>
                         </tr> 
                         <tr>
-                          <td>10</td><td>Exercise 9.1</td><td><a href="https://github.com/thienninho/exerciseweb.git" id="code" target="blank">Go to Git</a></td><td><a href="Control?name=Exercise9-01" id="Click-here">Click here</a></td><td class="text-primary">Completed</td>
+                          <td>10</td><td>Exercise 9.1</td><td><a href="https://github.com/thienan01/ExercisesWebsite.git" id="code" target="blank">Go to Git</a></td><td><a href="Control?name=Exercise9-01" id="Click-here">Click here</a></td><td class="text-primary">Use JSTL in the Download application</td>
                         </tr> 
                         <tr>
-                            <td>11</td><td>Exercise 9.2</td><td><a href="https://github.com/thienninho/exerciseweb.git" id="code" target="blank">Go to Git</a></td><td><a href="Control?name=Exercise9-02" id="Click-here">Click here</a></td><td class="text-primary">Completed</td>
+                            <td>11</td><td>Exercise 9.2</td><td><a href="https://github.com/thienan01/ExercisesWebsite.git" id="code" target="blank">Go to Git</a></td><td><a href="Control?name=Exercise9-02" id="Click-here">Click here</a></td><td class="text-primary">Use JSTL in the Cart application</td>
                         </tr>
                       </tbody>
                     </table>

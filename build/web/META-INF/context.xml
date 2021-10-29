@@ -1,2 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Context path="/ExerciseWeb"/>
+<Context path="/ExerciseWeb">
+    <Resource name="jdbc/murach" auth="Container"
+        driverClassName = "com.mysql.jdbc.Driver"
+        url="jdbc:mysql://remotemysql.com:3306/5KwppwPGXp?autoReconnect=true"
+        username="5KwppwPGXp" password="ogsyfFnrXg"
+        maxActive="100" maxIdle="30" maxWait="10000"
+        logAbandoned="true" removeAbandoned="true"
+        removeAbandonedTimeout="60" type="javax.sql.DataSource"/>
+</Context>
